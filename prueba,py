@@ -1,0 +1,10 @@
+import time
+from sonido import rebote, punto_marcado, victoria
+
+rebote()
+time.sleep(3)
+
+punto_marcado()
+time.sleep(3)
+
+victoria()
