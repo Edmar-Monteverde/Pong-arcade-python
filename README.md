@@ -1,4 +1,8 @@
-# 🕹️ Pong Arcade - Python Turtle
+
+
+
+                # 🕹️ Pong Arcade - Python Turtle
+
 
 Juego clásico **Pong** desarrollado en Python usando la librería **Turtle Graphics**.
 
@@ -39,33 +43,34 @@ El proyecto incluye menú interactivo, dificultad configurable, modo contra CPU,
 3. Ejecuta:
 
 ```bash
-python main.py
+python main.py 
+```
 
 
-▶️Controles 
+## ▶️Controles 
 
 Menú
 
-1 → Jugar vs CPU
+- 1 → Jugar vs CPU
 
-2 → Jugar vs Jugador
+- 2 → Jugar vs Jugador
 
-F / M / D → Seleccionar dificultad
+- F / M / D → Seleccionar dificultad
 
-Enter → Iniciar juego
+- Enter → Iniciar juego
 
-Esc → Salir
+- Esc → Salir
 
 Juego
 
-Jugador 1: W / S
+- Jugador 1: W / S
 
-Jugador 2: ↑ / ↓
+- Jugador 2: ↑ / ↓
 
-Esc → Salir
+- Esc → Salir
 
 
-Estructura del Proyecto
+##   Estructura del Proyecto
 
 
 Juego Arcade Pong/
@@ -84,14 +89,14 @@ Juego Arcade Pong/
 ├── victoria.wav
 └── README.md
 
-🚀 Posibles mejoras futuras
+##  🚀 Posibles mejoras futuras
 
-Pausa del juego
+- Pausa del juego
 
-Música de fondo
+- Música de fondo
 
-Mejora de la IA
+- Mejora de la IA
 
-Portabilidad a otros sistemas
+- Portabilidad a otros sistemas
 
-Refactorización usando clases
+R- efactorización usando clases

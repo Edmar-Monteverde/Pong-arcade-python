@@ -1,0 +1,8 @@
+# Este proyecto no requiere la instalación de librerías externas.
+# Utiliza exclusivamente módulos incluidos en la librería estándar de Python:
+# - turtle
+# - time
+# - winsound (disponible solo en Windows)
+
+#Requiere Python 3.8 o superior.
+
